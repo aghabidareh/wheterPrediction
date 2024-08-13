@@ -1,2 +1,1 @@
-# wheterPrediction
-a simple record and model for weather prediction
+make it better and make me happy!!!
